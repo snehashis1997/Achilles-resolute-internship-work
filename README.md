@@ -1,8 +1,6 @@
 # Achilles resolute internship work
 
-<p align="center">
-  <img width="300" height="300" src="https://user-images.githubusercontent.com/33135767/92498070-cadef380-f217-11ea-9ab2-190068a9cab6.png"">
-</p>
+ <img width="300" height="300" src="https://user-images.githubusercontent.com/33135767/92498070-cadef380-f217-11ea-9ab2-190068a9cab6.png">
                                                                                                                                            
 <img width="300" height="300" src="https://user-images.githubusercontent.com/33135767/92503186-8571f480-f21e-11ea-8d4e-f41071e8ac43.png">
 
