@@ -18,5 +18,10 @@
 ![image](https://user-images.githubusercontent.com/33135767/92499472-88b6b180-f219-11ea-83b0-48e981d7b35b.png)
 
 
+![pro_1](https://user-images.githubusercontent.com/33135767/92504138-d9c9a400-f21f-11ea-9d7c-57f4b9b166f6.png)
+
+![pro_1](https://user-images.githubusercontent.com/33135767/92504034-b69ef480-f21f-11ea-8a48-3b4b0e87a28d.png)
+![23_training_mask](https://user-images.githubusercontent.com/33135767/92504076-c1598980-f21f-11ea-9050-efac70728c73.gif)
+
 
 
