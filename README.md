@@ -1,10 +1,6 @@
 # Achilles resolute internship work
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/snehashis1997/Achilles-resolute-internship-work/blob/master/Results/DICELOSS_RUNET.png">
-</p>
-
-<p align="center">
   <img width="300" height="300" src="https://user-images.githubusercontent.com/33135767/92498070-cadef380-f217-11ea-9ab2-190068a9cab6.png"">
 </p>
 
@@ -13,7 +9,9 @@
 ![image](https://user-images.githubusercontent.com/33135767/92499107-19d95880-f219-11ea-9ee0-9994645baa3d.png)
 
 
-<img src="https://user-images.githubusercontent.com/33135767/92501002-9a995400-f21b-11ea-82c9-adf5076ec593.png" width="400" height="400">
+<p align="center">
+  <img width="300" height="300" src="https://user-images.githubusercontent.com/33135767/92501002-9a995400-f21b-11ea-82c9-adf5076ec593.png">
+</p>
 
 <img src="https://user-images.githubusercontent.com/33135767/92499374-6b81e300-f219-11ea-80b8-624a8c145cb2.png" width="500" height="300">
 
