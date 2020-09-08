@@ -1,8 +1,8 @@
 # Achilles resolute internship work
 
- <img width="300" height="300" src="https://user-images.githubusercontent.com/33135767/92498070-cadef380-f217-11ea-9ab2-190068a9cab6.png">
+ <img width="150" height="150" src="https://user-images.githubusercontent.com/33135767/92498070-cadef380-f217-11ea-9ab2-190068a9cab6.png">
                                                                                                                                            
-<img width="300" height="300" src="https://user-images.githubusercontent.com/33135767/92503186-8571f480-f21e-11ea-8d4e-f41071e8ac43.png">
+<img width="150" height="150" src="https://user-images.githubusercontent.com/33135767/92503186-8571f480-f21e-11ea-8d4e-f41071e8ac43.png">
 
 ![image](https://user-images.githubusercontent.com/33135767/92499030-03cb9800-f219-11ea-9a7c-976b836a1de6.png)
 ![image](https://user-images.githubusercontent.com/33135767/92499064-0e862d00-f219-11ea-88f9-ec72f654bc57.png)
