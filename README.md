@@ -31,7 +31,7 @@
 ![eye ball](https://user-images.githubusercontent.com/33135767/96847650-10c2e480-1471-11eb-893b-d7bf8bd8244c.gif)
 ![image](https://user-images.githubusercontent.com/33135767/96848024-82029780-1471-11eb-8e71-6aa1da751a5c.png)
 
-
+![fovea1](https://user-images.githubusercontent.com/33135767/97060798-268bf300-15b2-11eb-8645-4500f2cdae1c.gif)
 
 # Tortuosity
 Tortuosity is a property of a curve being tortuous (twisted; having many turns). There have been several attempts to quantify this property. Tortuosity is commonly used to describe diffusion and fluid flow in porous media, such as soils and snow.
