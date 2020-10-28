@@ -77,5 +77,3 @@ For this part of the project I use [DRIVE] dataset.
 
 ![fovea1](https://user-images.githubusercontent.com/33135767/97060798-268bf300-15b2-11eb-8645-4500f2cdae1c.gif)
 
-# Tortuosity
-Tortuosity is a property of a curve being tortuous (twisted; having many turns). There have been several attempts to quantify this property. Tortuosity is commonly used to describe diffusion and fluid flow in porous media, such as soils and snow.
