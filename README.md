@@ -1,5 +1,49 @@
 # Achilles resolute internship work
 
+Blood vessels damaged from diabetic retinopathy can cause vision loss in two ways:Fragile, abnormal blood vessels can develop and leak blood into the center of the eye, blurring vision. This is proliferative retinopathy and is the fourth and most advanced stage of the disease.
+
+Fluid can leak into the center of the macula, the part of the eye  where sharp, straight-ahead vision occurs. The fluid makes the macula  swell, blurring vision. This condition is called macular edema.  It can occur at any stage of diabetic retinopathy, although it is more  likely to occur as the disease progresses. About half of the people with  proliferative retinopathy also have macular edema.
+
+## What are the symptoms of proliferative retinopathy if bleeding occurs?
+At first, you will see a few specks of blood, or spots, “floating” in  your vision. If spots occur, see your eye care professional as soon as  possible. You may need treatment before more serious bleeding occurs.  Hemorrhages tend to happen more than once, often during sleep.
+
+![image](https://user-images.githubusercontent.com/33135767/97417895-36973000-192e-11eb-9c21-82475cfb21dc.png)
+
+## Eye disesase detection and  diabetic retinopathy dieases grading
+
+In this part of the project I use [odir dataset] and [aptos dataset]. At first using [odir dataset] I detect which disease present then using [aptos dataset] decide diabetic retinopathy diesses grading or sevierity.
+
+## [odir dataset] labels are as follows:
+* normal (N) 
+* diabetes (D) 
+* glaucoma (G) 
+* cataract (C)
+* AMD (A),
+* hypertension (H)
+* myopia (M) 
+* other diseases/abnormalities (O) 
+
+## [aptos dataset] labels are as follows:
+
+* No DR
+* Mild
+* Moderate
+* Severe
+* Proliferative DR
+
+[Tortuosity]: https://en.wikipedia.org/wiki/Tortuosity
+[odir dataset]: https://odir2019.grand-challenge.org/dataset/
+[aptos dataset]: kaggle.com/c/aptos2019-blindness-detection/data
+
+## Blood vessels segmentation to calculate tortuiosity index of the blood vessel 
+
+## Tortuosity
+[Tortuosity] is a property of a curve being tortuous (twisted; having many turns). There have been several attempts to quantify this property. Tortuosity is commonly used to describe diffusion and fluid flow in porous media, such as soils and snow.
+
+For this part of the project I use [DRIVE] dataset.
+
+### Example image and it's coresponding segmentation image 
+
 <img width="300" height="300" src="https://user-images.githubusercontent.com/33135767/92498070-cadef380-f217-11ea-9ab2-190068a9cab6.png"> <img width="300" height="300" src="https://user-images.githubusercontent.com/33135767/92503186-8571f480-f21e-11ea-8d4e-f41071e8ac43.png">
                                                                                                                                            
 
