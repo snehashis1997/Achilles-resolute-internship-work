@@ -54,24 +54,24 @@ For this part of the project I use [DRIVE] dataset.
 
 ### Exaple image from test set and it's Histogram plot
 
+![1](https://user-images.githubusercontent.com/33135767/97540848-39575b00-19ea-11eb-9d9d-ec6048351f37.png)
 
-<img width="300" height="300" src="https://user-images.githubusercontent.com/33135767/92504727-ab989400-f220-11ea-9207-5f1dfb7e0ad9.png"> <img width="300" height="300" src="https://user-images.githubusercontent.com/33135767/92501002-9a995400-f21b-11ea-82c9-adf5076ec593.png"> 
 
-#### You can see from histogram plot that there is some serious channel issue. Try to fix it first with image processing.
-
-![image](https://user-images.githubusercontent.com/33135767/92499374-6b81e300-f219-11ea-80b8-624a8c145cb2.png)
-![image](https://user-images.githubusercontent.com/33135767/92499438-7b99c280-f219-11ea-88c2-e90980192234.png)
-![image](https://user-images.githubusercontent.com/33135767/92499472-88b6b180-f219-11ea-83b0-48e981d7b35b.png)
+### You can see from histogram plot that there is some serious channel issue. Try to fix it first with image processing.
+### Now it is much better
+![1](https://user-images.githubusercontent.com/33135767/97541171-b71b6680-19ea-11eb-9bcc-b29418cb8684.png)
 
 
 
-<img width="300" height="300" src="https://user-images.githubusercontent.com/33135767/92504885-e39fd700-f220-11ea-9f8a-1e02f53d8ea5.png"> <img width="300" height="300" src="https://user-images.githubusercontent.com/33135767/92504303-1eedd600-f220-11ea-89f8-b2cb48011e0a.png"> <img width="300" height="300" src="https://user-images.githubusercontent.com/33135767/92504076-c1598980-f21f-11ea-9050-efac70728c73.gif">
+## Let's try some Deep learning based image segmentation algorithim
+### For segmentation here I use [UNET].
+
+[UNET]: https://arxiv.org/abs/1505.04597
+
 
 ![1](https://user-images.githubusercontent.com/33135767/97540005-f943a880-19e8-11eb-9bb3-cf800a9385c0.png)
 
-<img width="300" height="300" src="https://user-images.githubusercontent.com/33135767/92504034-b69ef480-f21f-11ea-8a48-3b4b0e87a28d.png"> 
 
-![image](https://user-images.githubusercontent.com/33135767/92506538-3c706f00-f223-11ea-9c95-0603b6a1fcec.png)
 
 ![unet_retinal_acc](https://user-images.githubusercontent.com/33135767/92506741-88231880-f223-11ea-87a0-4dd298a26020.png)
 ![unet_loss](https://user-images.githubusercontent.com/33135767/92506797-9ffa9c80-f223-11ea-923b-4cb7c6d1b17a.png)
