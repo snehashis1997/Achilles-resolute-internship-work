@@ -57,14 +57,16 @@ For this part of the project I use [DRIVE] dataset.
 
 <img width="300" height="300" src="https://user-images.githubusercontent.com/33135767/92504727-ab989400-f220-11ea-9207-5f1dfb7e0ad9.png"> <img width="300" height="300" src="https://user-images.githubusercontent.com/33135767/92501002-9a995400-f21b-11ea-82c9-adf5076ec593.png"> 
 
-You can see from histogram plot that there is some serious channel issue. Try to fix it first with image processing.
 
 ![image](https://user-images.githubusercontent.com/33135767/92499374-6b81e300-f219-11ea-80b8-624a8c145cb2.png)
 ![image](https://user-images.githubusercontent.com/33135767/92499438-7b99c280-f219-11ea-88c2-e90980192234.png)
 ![image](https://user-images.githubusercontent.com/33135767/92499472-88b6b180-f219-11ea-83b0-48e981d7b35b.png)
 
+#### You can see from histogram plot that there is some serious channel issue. Try to fix it first with image processing.
 
 <img width="300" height="300" src="https://user-images.githubusercontent.com/33135767/92504885-e39fd700-f220-11ea-9f8a-1e02f53d8ea5.png"> <img width="300" height="300" src="https://user-images.githubusercontent.com/33135767/92504303-1eedd600-f220-11ea-89f8-b2cb48011e0a.png"> <img width="300" height="300" src="https://user-images.githubusercontent.com/33135767/92504076-c1598980-f21f-11ea-9050-efac70728c73.gif">
+
+![1](https://user-images.githubusercontent.com/33135767/97540005-f943a880-19e8-11eb-9bb3-cf800a9385c0.png)
 
 <img width="300" height="300" src="https://user-images.githubusercontent.com/33135767/92504034-b69ef480-f21f-11ea-8a48-3b4b0e87a28d.png"> 
 
