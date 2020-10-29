@@ -50,19 +50,14 @@ For this part of the project I use [DRIVE] dataset.
 
 #### Histogram plot of any one example image of the DRIVE dataset's 
 
-![image](https://user-images.githubusercontent.com/33135767/92499030-03cb9800-f219-11ea-9a7c-976b836a1de6.png) ![image](https://user-images.githubusercontent.com/33135767/92499064-0e862d00-f219-11ea-88f9-ec72f654bc57.png) 
+![1](https://user-images.githubusercontent.com/33135767/97538935-35760980-19e7-11eb-89b0-d06cf3ecf08b.png)
 
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/33135767/92499107-19d95880-f219-11ea-9ee0-9994645baa3d.png"/>
-</p>
-
-
-
+### Histogram plot of given testing image
 
 
 <img width="300" height="300" src="https://user-images.githubusercontent.com/33135767/92504727-ab989400-f220-11ea-9207-5f1dfb7e0ad9.png"> <img width="300" height="300" src="https://user-images.githubusercontent.com/33135767/92501002-9a995400-f21b-11ea-82c9-adf5076ec593.png"> 
 
+You can see from histogram plot that there is some serious channel issue. Try to fix it first with image processing.
 
 ![image](https://user-images.githubusercontent.com/33135767/92499374-6b81e300-f219-11ea-80b8-624a8c145cb2.png)
 ![image](https://user-images.githubusercontent.com/33135767/92499438-7b99c280-f219-11ea-88c2-e90980192234.png)
