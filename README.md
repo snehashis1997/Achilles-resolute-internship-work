@@ -45,14 +45,14 @@ For this part of the project I use [DRIVE] dataset.
 
 ### Example image and it's coresponding segmentation image 
 
-<img width="300" height="300" src="https://user-images.githubusercontent.com/33135767/92498070-cadef380-f217-11ea-9ab2-190068a9cab6.png"> <img width="300" height="300" src="https://user-images.githubusercontent.com/33135767/92503186-8571f480-f21e-11ea-8d4e-f41071e8ac43.png">
-                                                                                                                                           
 
-#### Histogram plot of any one example image of the DRIVE dataset's 
+![1](https://user-images.githubusercontent.com/33135767/97539503-14fa7f00-19e8-11eb-91d4-6bed1a7e92bc.png)
+                                                                                                                                        
+#### Histogram plot of the upper image of the DRIVE dataset's 
 
 ![1](https://user-images.githubusercontent.com/33135767/97538935-35760980-19e7-11eb-89b0-d06cf3ecf08b.png)
 
-### Histogram plot of given testing image
+### Exaple image from test set and it's Histogram plot
 
 
 <img width="300" height="300" src="https://user-images.githubusercontent.com/33135767/92504727-ab989400-f220-11ea-9207-5f1dfb7e0ad9.png"> <img width="300" height="300" src="https://user-images.githubusercontent.com/33135767/92501002-9a995400-f21b-11ea-82c9-adf5076ec593.png"> 
