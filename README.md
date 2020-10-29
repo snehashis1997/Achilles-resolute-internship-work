@@ -38,6 +38,7 @@ In this part of the project I use [odir dataset] and [aptos dataset]. At first u
 ## Blood vessels segmentation to calculate tortuiosity index of the blood vessel 
 
 ## Tortuosity
+
 [Tortuosity] is a property of a curve being tortuous (twisted; having many turns). There have been several attempts to quantify this property. Tortuosity is commonly used to describe diffusion and fluid flow in porous media, such as soils and snow.
 
 For this part of the project I use [DRIVE] dataset.
@@ -47,10 +48,17 @@ For this part of the project I use [DRIVE] dataset.
 <img width="300" height="300" src="https://user-images.githubusercontent.com/33135767/92498070-cadef380-f217-11ea-9ab2-190068a9cab6.png"> <img width="300" height="300" src="https://user-images.githubusercontent.com/33135767/92503186-8571f480-f21e-11ea-8d4e-f41071e8ac43.png">
                                                                                                                                            
 
+#### Histogram plot of any one example image of the DRIVE dataset's 
 
-![image](https://user-images.githubusercontent.com/33135767/92499030-03cb9800-f219-11ea-9a7c-976b836a1de6.png)
-![image](https://user-images.githubusercontent.com/33135767/92499064-0e862d00-f219-11ea-88f9-ec72f654bc57.png)
-![image](https://user-images.githubusercontent.com/33135767/92499107-19d95880-f219-11ea-9ee0-9994645baa3d.png)
+![image](https://user-images.githubusercontent.com/33135767/92499030-03cb9800-f219-11ea-9a7c-976b836a1de6.png) ![image](https://user-images.githubusercontent.com/33135767/92499064-0e862d00-f219-11ea-88f9-ec72f654bc57.png) 
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33135767/92499107-19d95880-f219-11ea-9ee0-9994645baa3d.png"/>
+</p>
+
+
+
 
 
 <img width="300" height="300" src="https://user-images.githubusercontent.com/33135767/92504727-ab989400-f220-11ea-9207-5f1dfb7e0ad9.png"> <img width="300" height="300" src="https://user-images.githubusercontent.com/33135767/92501002-9a995400-f21b-11ea-82c9-adf5076ec593.png"> 
