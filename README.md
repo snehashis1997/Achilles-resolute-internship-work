@@ -1,6 +1,6 @@
 # Achilles resolute internship work
 
-During my internship at “Achilles Resolute Private Limited” (https://www.achillesresolute.com/career.html), I was design various classiﬁcation and segmentation CNN models using Python Keras, Opencv, Sklearn etc. libraries.
+During my internship at “Achilles Resolute Private Limited” (https://www.achillesresolute.com/), I was design various classiﬁcation and segmentation CNN models using Python Keras, Opencv, Sklearn etc. libraries.
 
 I used Deep learning-based segmentation algorithms to segment out below 40 days of baby's retinopathy images and also calculate the tortuosity index to find the severity of the diseases. Challenge in this work is that mask binary dataset is not given. so we have to collect some datasets from different fundus datasets and train the model. Also, baby's retinopathy images are not very clear as fundus dataset, so image processing techniques also used to fix these issues.
 
