@@ -88,6 +88,7 @@ For this part of the project I use [DRIVE] dataset.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/33135767/96847650-10c2e480-1471-11eb-893b-d7bf8bd8244c.gif"/>
 </p>
+
 ## Loss curve of the SSD model
 
 ![image](https://user-images.githubusercontent.com/33135767/96848024-82029780-1471-11eb-8e71-6aa1da751a5c.png)
