@@ -57,29 +57,46 @@ For this part of the project I use [DRIVE] dataset.
 ![1](https://user-images.githubusercontent.com/33135767/97540848-39575b00-19ea-11eb-9d9d-ec6048351f37.png)
 
 
-### You can see from histogram plot that there is some serious channel issue. Try to fix it first with image processing.
+### You can see from histogram plot that there is some serious channel issue. Try to fix it first with image processing
+
 ### Now it is much better
-![1](https://user-images.githubusercontent.com/33135767/97541171-b71b6680-19ea-11eb-9bcc-b29418cb8684.png)
 
-
+<p align="center">
+  <img src= "https://user-images.githubusercontent.com/33135767/97541171-b71b6680-19ea-11eb-9bcc-b29418cb8684.png"/>
+</p>
 
 ## Let's try some Deep learning based image segmentation algorithim
+
 ### For segmentation here I use [UNET].
 
 [UNET]: https://arxiv.org/abs/1505.04597
 
-
-![1](https://user-images.githubusercontent.com/33135767/97540005-f943a880-19e8-11eb-9bb3-cf800a9385c0.png)
-
-
-
-![unet_retinal_acc](https://user-images.githubusercontent.com/33135767/92506741-88231880-f223-11ea-87a0-4dd298a26020.png)
-![unet_loss](https://user-images.githubusercontent.com/33135767/92506797-9ffa9c80-f223-11ea-923b-4cb7c6d1b17a.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33135767/97540005-f943a880-19e8-11eb-9bb3-cf800a9385c0.png"/>
+</p>
 
 
 
-![eye ball](https://user-images.githubusercontent.com/33135767/96847650-10c2e480-1471-11eb-893b-d7bf8bd8244c.gif)
+### Accuracy and loss for the segmentation architecture
+
+![unet_retinal_acc](https://user-images.githubusercontent.com/33135767/92506741-88231880-f223-11ea-87a0-4dd298a26020.png) ![unet_loss](https://user-images.githubusercontent.com/33135767/92506797-9ffa9c80-f223-11ea-923b-4cb7c6d1b17a.png)
+
+## Eye Ball detection
+
+### Tensorflow object detecton API result. Model used here is SSD
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33135767/96847650-10c2e480-1471-11eb-893b-d7bf8bd8244c.gif"/>
+</p>
+## Loss curve of the SSD model
+
 ![image](https://user-images.githubusercontent.com/33135767/96848024-82029780-1471-11eb-8e71-6aa1da751a5c.png)
 
-![fovea1](https://user-images.githubusercontent.com/33135767/97060798-268bf300-15b2-11eb-8645-4500f2cdae1c.gif)
+## Fovea detection
+### Tensorflow object detecton API result. Model used here is SSD
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33135767/97060798-268bf300-15b2-11eb-8645-4500f2cdae1c.gif"/>
+</p>
+
 
